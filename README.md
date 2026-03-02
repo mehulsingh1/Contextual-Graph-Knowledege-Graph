@@ -72,3 +72,13 @@ Resulting Graph Structure:
 [ ] Frontend visualization dashboard using react-force-graph.
 
 [ ] Support for local LLMs via Ollama.
+
+📊 Evaluation Benchmarks:
+
+Extraction Recall: Measures the percentage of "ground truth" entities identified from the synthetic data (Target: >90%).
+
+Inference Latency: Average time to generate triplets via Groq (Target: <2s per 512 tokens).
+
+Graph Density: Ratio of relationships to nodes, ensuring a "highly connected" context rather than isolated clusters.
+
+Query Accuracy: Comparing standard RAG vs. GraphRAG on multi-hop questions (e.g., "Who does the manager of Project Nexus report to?").
