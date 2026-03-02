@@ -6,7 +6,7 @@ An advanced RAG (Retrieval-Augmented Generation) pipeline that transforms unstru
 🚀 Why This Engine?
 Traditional Vector RAG often misses the "connective tissue" between entities. This project uses GraphRAG to map relationships, enabling deep, multi-hop reasoning.
 
-Lightning Fast: Powered by Groq (Llama 3 70B) for near-instant entity extraction.
+Lightning Fast: Powered by Groq (llama-3.3-70b-versatile) for near-instant entity extraction.
 
 Structured Intelligence: Built on LlamaIndex for seamless data orchestration.
 
