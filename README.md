@@ -65,6 +65,10 @@ Resulting Graph Structure:
 
 (Dr. Thorne) -[WORKS_AT]-> (OmniCorp)
 
+🔍 Validation Query
+To see your graph in action, open Neo4j Browser and run:
+MATCH (n)-[r]->(m) RETURN n, r, m
+
 📈 Roadmap
 
 [ ] Integration with Microsoft GraphRAG community summaries.
