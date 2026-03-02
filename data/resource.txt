@@ -1,0 +1,8 @@
+Project Lumina is a next-generation GraphRAG framework developed by the AI Innovation Lab. 
+Dr. Aris Thorne is the Principal Architect of Project Lumina. 
+The AI Innovation Lab is a strategic department within Nexus Corp. 
+Project Lumina utilizes the Groq Inference Engine to achieve ultra-low latency triplet extraction. 
+The Groq Inference Engine runs on LPU (Language Processing Unit) hardware. 
+Nexus Corp signed a partnership with Neo4j to provide the graph database backbone for Project Lumina. 
+Sarah Chen is the Lead Data Scientist at Neo4j who manages the Nexus Corp integration. 
+Project Lumina competes with traditional Vector RAG systems by providing multi-hop reasoning capabilities.
